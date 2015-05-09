@@ -1,0 +1,143 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" height="300" version="1.1" width="400"  id="raphael-paper-0" style="overflow: hidden; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); -webkit-user-select: none; cursor: default; position: relative; background-color: rgb(255, 255, 255);">
+    <style type="text/css">#raphael-paper-0 .fusioncharts-yaxis-0-title {font-family:Verdana,sans;font-size:10px;line-height:12px;font-weight:bold;font-style:normal;}#raphael-paper-0 .fusioncharts-yaxis-0-gridlabels .fusioncharts-label {font-family:Verdana,sans;font-size:10px;line-height:12px;color:#555555;fill:#555555;}#raphael-paper-0 .fusioncharts-yaxis-1-gridlabels .fusioncharts-label {font-family:Verdana,sans;font-size:10px;line-height:12px;color:#555555;fill:#555555;}#raphael-paper-0 .fusioncharts-xaxis-0-title {font-family:Verdana,sans;font-size:10px;line-height:12px;font-weight:bold;font-style:normal;}#raphael-paper-0 .fusioncharts-xaxis-0-gridlabels .fusioncharts-label {font-family:Verdana,sans;font-size:10px;color:#555555;line-height:12px;fill:#555555;}#raphael-paper-0 .fusioncharts-datalabels .fusioncharts-label {font-family:Verdana,sans;font-size:10px;line-height:12px;font-weight:normal;font-style:normal;color:rgba(255,255,255,1);fill:rgba(255,255,255,1);}#raphael-paper-0 .fusioncharts-caption {font-family:Verdana,sans;color:#555555;font-size:13px;font-weight:bold;line-height:15.6px;fill:#555555;}#raphael-paper-0 .fusioncharts-subcaption {font-family:Verdana,sans;color:#555555;font-size:11px;font-weight:bold;line-height:13.2px;fill:#555555;}</style>
+    <defs>
+        <linearGradient id="0-90-rgba_203_203_203_0__0-rgba_233_233_233_0__100" x1="0" y1="1" x2="6.123233995736766e-17" y2="0">
+            <stop offset="0%" stop-color="#cbcbcb" stop-opacity="0"></stop>
+            <stop offset="100%" stop-color="#e9e9e9" stop-opacity="0"></stop>
+        </linearGradient>
+        <clipPath id="D955DDD9-F7FC-4A4B-B74C-8A8C378DC4D2">
+            <rect x="75" y="64" width="309" height="186" transform="matrix(1,0,0,1,0,0)"></rect>
+        </clipPath>
+        <linearGradient id="0-270-rgba_0_142_228_1_-rgba_255_255_255_1_" x1="1.8369701987210297e-16" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#008ee4" stop-opacity="1"></stop>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="1"></stop>
+        </linearGradient>
+        <linearGradient id="0-90-rgba_204_204_204_1__0-rgba_255_255_255_1__100" x1="0" y1="1" x2="6.123233995736766e-17" y2="0">
+            <stop offset="0%" stop-color="#cccccc" stop-opacity="1"></stop>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="1"></stop>
+        </linearGradient>
+    </defs>
+    <g class="raphael-group-1-background">
+        <rect x="1" y="1" width="398" height="298" stroke="none" fill="url('#0-90-rgba_203_203_203_0__0-rgba_233_233_233_0__100')" opacity="1" fill-opacity="1" rx="0" ry="0" style="stroke: none; opacity: 1; fill-opacity: 1;"></rect>
+        <rect x="0.5" y="0.5" width="399" height="299" stroke="#767575" stroke-opacity="0.5" stroke-width="1" fill="none" rx="0" ry="0" style="stroke: rgb(118, 117, 117); stroke-opacity: 0.5; fill: none;"></rect>
+    </g>
+    <g class="raphael-group-12-canvas">
+        <rect x="75" y="64" width="309" height="186" rx="0" ry="0" stroke-width="0" stroke="#545454" stroke-opacity="0" stroke-linejoin="miter" fill="none" style="stroke: rgb(84, 84, 84); stroke-opacity: 0; stroke-linejoin: miter; fill: none;"></rect>
+        <rect x="75" y="64" width="309" height="186" rx="0" ry="0" stroke-width="0" stroke="none" fill-opacity="0" fill="#ffffff" style="stroke: none; fill-opacity: 0; fill: rgb(255, 255, 255);"></rect>
+    </g>
+    <g class="raphael-group-15-axisbottom">
+        <g class="raphael-group-18-x-axis-bands"></g>
+        <g class="raphael-group-24-y-axis-bands">
+            <rect x="75" y="175.60000000000002" width="309" height="37.19999999999999" fill-opacity="0.5" fill="#eeeeee" stroke-width="0" rx="0" ry="0" stroke="#000000" style="fill-opacity: 0.5; fill: rgb(238, 238, 238); stroke: rgb(0, 0, 0);"></rect>
+            <rect x="75" y="101.20000000000002" width="309" height="37.19999999999999" fill-opacity="0.5" fill="#eeeeee" stroke-width="0" rx="0" ry="0" stroke="#000000" style="fill-opacity: 0.5; fill: rgb(238, 238, 238); stroke: rgb(0, 0, 0);"></rect>
+        </g>
+        <g class="raphael-group-30-y-axis-bands"></g>
+        <g class="raphael-group-20-x-axis-lines"></g>
+        <g class="raphael-group-26-y-axis-lines">
+            <path d="M75,213.5L384,213.5" stroke="#717170" stroke-opacity="0.2" stroke-width="1" stroke-dasharray="0" fill="none" shape-rendering="crispEdges" style="stroke: rgb(113, 113, 112); stroke-opacity: 0.2; fill: none; shape-rendering: crispedges;"></path>
+            <path d="M75,176.5L384,176.5" stroke="#717170" stroke-opacity="0.2" stroke-width="1" stroke-dasharray="0" fill="none" shape-rendering="crispEdges" style="stroke: rgb(113, 113, 112); stroke-opacity: 0.2; fill: none; shape-rendering: crispedges;"></path>
+            <path d="M75,138.5L384,138.5" stroke="#717170" stroke-opacity="0.2" stroke-width="1" stroke-dasharray="0" fill="none" shape-rendering="crispEdges" style="stroke: rgb(113, 113, 112); stroke-opacity: 0.2; fill: none; shape-rendering: crispedges;"></path>
+            <path d="M75,101.5L384,101.5" stroke="#717170" stroke-opacity="0.2" stroke-width="1" stroke-dasharray="0" fill="none" shape-rendering="crispEdges" style="stroke: rgb(113, 113, 112); stroke-opacity: 0.2; fill: none; shape-rendering: crispedges;"></path>
+            <path d="M75,64.5L384,64.5" stroke="#717170" stroke-opacity="0.2" stroke-width="1" stroke-dasharray="0" fill="none" shape-rendering="crispEdges" style="stroke: rgb(113, 113, 112); stroke-opacity: 0.2; fill: none; shape-rendering: crispedges;"></path>
+        </g>
+        <g class="raphael-group-32-y-axis-lines"></g>
+        <g class="fusioncharts-xaxis-0-gridlabels">
+            <text class="fusioncharts-label" fill-opacity="1" fill="#555555" x="126.5" y="267" text-anchor="middle" transform="matrix(1,0,0,1,0,0)" stroke="none" style="fill-opacity: 1; fill: rgb(85, 85, 85); text-anchor: middle; stroke: none; font-family: verdana, sans; font-size: 10px; font-weight: normal; font-style: normal;" font-family="Verdana,sans" font-size="10px" font-weight="normal" font-style="normal">
+                <tspan dy="-2" x="126.5">Apple</tspan>
+            </text>
+            <text class="fusioncharts-label" fill-opacity="1" fill="#555555" x="229.5" y="267" text-anchor="middle" transform="matrix(1,0,0,1,0,0)" stroke="none" style="fill-opacity: 1; fill: rgb(85, 85, 85); text-anchor: middle; stroke: none; font-family: verdana, sans; font-size: 10px; font-weight: normal; font-style: normal;" font-family="Verdana,sans" font-size="10px" font-weight="normal" font-style="normal">
+                <tspan dy="-2" x="229.5">Cranberry</tspan>
+            </text>
+            <text class="fusioncharts-label" fill-opacity="1" fill="#555555" x="332.5" y="267" text-anchor="middle" transform="matrix(1,0,0,1,0,0)" stroke="none" style="fill-opacity: 1; fill: rgb(85, 85, 85); text-anchor: middle; stroke: none; font-family: verdana, sans; font-size: 10px; font-weight: normal; font-style: normal;" font-family="Verdana,sans" font-size="10px" font-weight="normal" font-style="normal">
+                <tspan dy="-2" x="332.5">Grapes</tspan>
+            </text>
+        </g>
+        <g class="fusioncharts-yaxis-0-gridlabels">
+            <text class="fusioncharts-label" fill="#555555" x="68" y="250" text-anchor="end" transform="matrix(1,0,0,1,0,0)" stroke="none" style="fill: rgb(85, 85, 85); text-anchor: end; stroke: none; font-family: verdana, sans; font-size: 10px;" font-family="Verdana,sans" font-size="10px" font-weight="undefined" font-style="undefined">
+                <tspan dy="4" x="68">$0</tspan>
+            </text>
+            <text class="fusioncharts-label" fill="#555555" x="68" y="212.8" text-anchor="end" transform="matrix(1,0,0,1,0,0)" stroke="none" style="fill: rgb(85, 85, 85); text-anchor: end; stroke: none; font-family: verdana, sans; font-size: 10px;" font-family="Verdana,sans" font-size="10px" font-weight="undefined" font-style="undefined">
+                <tspan dy="3.9953125000000114" x="68">$180K</tspan>
+            </text>
+            <text class="fusioncharts-label" fill="#555555" x="68" y="175.60000000000002" text-anchor="end" transform="matrix(1,0,0,1,0,0)" stroke="none" style="fill: rgb(85, 85, 85); text-anchor: end; stroke: none; font-family: verdana, sans; font-size: 10px;" font-family="Verdana,sans" font-size="10px" font-weight="undefined" font-style="undefined">
+                <tspan dy="3.9984375000000227" x="68">$360K</tspan>
+            </text>
+            <text class="fusioncharts-label" fill="#555555" x="68" y="138.4" text-anchor="end" transform="matrix(1,0,0,1,0,0)" stroke="none" style="fill: rgb(85, 85, 85); text-anchor: end; stroke: none; font-family: verdana, sans; font-size: 10px;" font-family="Verdana,sans" font-size="10px" font-weight="undefined" font-style="undefined">
+                <tspan dy="4.001562500000006" x="68">$540K</tspan>
+            </text>
+            <text class="fusioncharts-label" fill="#555555" x="68" y="101.20000000000002" text-anchor="end" transform="matrix(1,0,0,1,0,0)" stroke="none" style="fill: rgb(85, 85, 85); text-anchor: end; stroke: none; font-family: verdana, sans; font-size: 10px;" font-family="Verdana,sans" font-size="10px" font-weight="undefined" font-style="undefined">
+                <tspan dy="4.004687500000017" x="68">$720K</tspan>
+            </text>
+            <text class="fusioncharts-label" fill="#555555" x="68" y="64" text-anchor="end" transform="matrix(1,0,0,1,0,0)" stroke="none" style="fill: rgb(85, 85, 85); text-anchor: end; stroke: none; font-family: verdana, sans; font-size: 10px;" font-family="Verdana,sans" font-size="10px" font-weight="undefined" font-style="undefined">
+                <tspan dy="4" x="68">$900K</tspan>
+            </text>
+        </g>
+        <g class="fusioncharts-yaxis-1-gridlabels"></g>
+        <g class="raphael-group-35-axis-name">
+            <text class="fusioncharts-yaxis-0-title" x="0" y="0" fill-opacity="1" fill="#555555" text-anchor="middle" style="fill-opacity: 1; fill: rgb(85, 85, 85); text-anchor: middle; font-size: 10px; stroke: none;" transform="matrix(0,-1,1,0,18,157)" font-size="10px" stroke="none">
+                <tspan dy="10" x="0">Amount (In USD)</tspan>
+            </text>
+            <text class="fusioncharts-xaxis-0-title" x="0" y="0" fill-opacity="1" fill="#555555" text-anchor="middle" transform="matrix(1,0,0,1,229.5,272)" font-size="10px" stroke="none" style="fill-opacity: 1; fill: rgb(85, 85, 85); text-anchor: middle; font-size: 10px; stroke: none;">
+                <tspan dy="10" x="0">Flavor</tspan>
+            </text>
+        </g>
+        <g class="raphael-group-50-axis-lines">
+            <path d="M74.5,250L74.5,64" stroke="#000000" stroke-opacity="0.2" stroke-width="1" fill="none" style="stroke: rgb(0, 0, 0); stroke-opacity: 0.2; fill: none;"></path>
+        </g>
+        <g class="raphael-group-56-axis-lines">
+            <path d="M74,250.5L384,250.5" stroke="#000000" stroke-opacity="0.2" stroke-width="1" fill="none" style="stroke: rgb(0, 0, 0); stroke-opacity: 0.2; fill: none;"></path>
+        </g>
+    </g>
+    <g class="raphael-group-2-dataset">
+        <g class="raphael-group-58-columns" clip-path="url('#D955DDD9-F7FC-4A4B-B74C-8A8C378DC4D2')">
+            <rect x="102" y="83" width="50" height="168" rx="0" ry="0" fill="url('#0-270-rgba_0_142_228_1_-rgba_255_255_255_1_')" opacity="1" fill-opacity="1" stroke="#333333" stroke-opacity="1" stroke-width="0" stroke-dasharray="0" stroke-linejoin="miter" style="opacity: 1; fill-opacity: 1; stroke: rgb(51, 51, 51); stroke-opacity: 1; stroke-linejoin: miter;"></rect>
+            <rect x="205" y="122" width="50" height="129" rx="0" ry="0" fill="url('#0-270-rgba_0_142_228_1_-rgba_255_255_255_1_')" opacity="1" fill-opacity="1" stroke="#333333" stroke-opacity="1" stroke-width="0" stroke-dasharray="0" stroke-linejoin="miter" style="opacity: 1; fill-opacity: 1; stroke: rgb(51, 51, 51); stroke-opacity: 1; stroke-linejoin: miter;"></rect>
+            <rect x="308" y="178" width="50" height="73" rx="0" ry="0" fill="url('#0-270-rgba_0_142_228_1_-rgba_255_255_255_1_')" opacity="1" fill-opacity="1" stroke="#333333" stroke-opacity="1" stroke-width="0" stroke-dasharray="0" stroke-linejoin="miter" style="opacity: 1; fill-opacity: 1; stroke: rgb(51, 51, 51); stroke-opacity: 1; stroke-linejoin: miter;"></rect>
+        </g>
+    </g>
+    <g class="raphael-group-16-axistop">
+        <g class="raphael-group-17-x-axis-bands"></g>
+        <g class="raphael-group-23-y-axis-bands"></g>
+        <g class="raphael-group-29-y-axis-bands"></g>
+        <g class="raphael-group-19-x-axis-lines"></g>
+        <g class="raphael-group-25-y-axis-lines"></g>
+        <g class="raphael-group-31-y-axis-lines"></g>
+        <g class="fusioncharts-xaxis-0-gridlabels"></g>
+        <g class="fusioncharts-yaxis-0-gridlabels"></g>
+        <g class="fusioncharts-yaxis-1-gridlabels"></g>
+    </g>
+    <g class="fusioncharts-datalabels">
+        <text class="fusioncharts-label" x="127" y="95" fill-opacity="1" fill="#ffffff" font-size="10px" stroke="none" text-anchor="middle" style="fill-opacity: 1; fill: rgb(255, 255, 255); font-size: 10px; stroke: none; text-anchor: middle;">
+            <tspan dy="3.5" x="127">$810K</tspan>
+        </text>
+        <text class="fusioncharts-label" x="230" y="134" fill-opacity="1" fill="#ffffff" font-size="10px" stroke="none" text-anchor="middle" style="fill-opacity: 1; fill: rgb(255, 255, 255); font-size: 10px; stroke: none; text-anchor: middle;">
+            <tspan dy="3.5" x="230">$620K</tspan>
+        </text>
+        <text class="fusioncharts-label" x="333" y="190" fill-opacity="1" fill="#ffffff" font-size="10px" stroke="none" text-anchor="middle" style="fill-opacity: 1; fill: rgb(255, 255, 255); font-size: 10px; stroke: none; text-anchor: middle;">
+            <tspan dy="3.5" x="333">$350K</tspan>
+        </text>
+    </g>
+    <g class="raphael-group-68-caption">
+        <text class="fusioncharts-caption" fill="#555555" x="229.5" y="16" text-anchor="middle" stroke="none" style="fill: rgb(85, 85, 85); text-anchor: middle; stroke: none; font-family: verdana, sans; font-size: 13px; font-weight: bold;" font-family="Verdana,sans" font-size="13px" font-weight="bold">
+            <tspan dy="12.8046875" x="229.5">Top 3 Juice Flavors</tspan>
+        </text>
+        <text class="fusioncharts-subcaption" fill="#555555" x="229.5" y="33" text-anchor="middle" stroke="none" style="fill: rgb(85, 85, 85); text-anchor: middle; stroke: none; font-family: verdana, sans; font-size: 11px; font-weight: bold;" font-family="Verdana,sans" font-size="11px" font-weight="bold">
+            <tspan dy="11.1015625" x="229.5">Last year</tspan>
+        </text>
+    </g>
+    <g class="raphael-group-3-hot">
+        <rect x="102" y="83" width="50" height="168" rx="0" ry="0" stroke="#c0c0c0" stroke-opacity="0.000001" stroke-width="0" fill-opacity="" fill="#c0c0c0" style="cursor: pointer; stroke: rgb(192, 192, 192); stroke-opacity: 0.000001; fill-opacity: 0.000001; fill: rgb(192, 192, 192);"></rect>
+        <rect x="205" y="122" width="50" height="129" rx="0" ry="0" stroke="#c0c0c0" stroke-opacity="0.000001" stroke-width="0" fill-opacity="0.000001" fill="#c0c0c0" style="cursor: pointer; stroke: rgb(192, 192, 192); stroke-opacity: 0.000001; fill-opacity: 0.000001; fill: rgb(192, 192, 192);"></rect>
+        <rect x="308" y="178" width="50" height="73" rx="0" ry="0" stroke="#c0c0c0" stroke-opacity="0.000001" stroke-width="0" fill-opacity="0.000001" fill="#c0c0c0" style="cursor: pointer; stroke: rgb(192, 192, 192); stroke-opacity: 0.000001; fill-opacity: 0.000001; fill: rgb(192, 192, 192);"></rect>
+    </g>
+    <g class="raphael-group-6-buttons" style="display: none;">
+        <g class="raphael-group-7-button">
+            <rect x="372.5" y="6.5" width="18" height="17" rx="2" ry="2" fill="url('#0-90-rgba_204_204_204_1__0-rgba_255_255_255_1__100')" stroke="#bbbbbb" stroke-width="1" opacity="1" fill-opacity="1" stroke-opacity="1" style="stroke: rgb(187, 187, 187); opacity: 1; fill-opacity: 1; stroke-opacity: 1;"></rect>
+            <path d="M376.5,17.5L376.5,20.5L387.5,20.5L387.5,17.5L387.5,20.5L376.5,20.5ZM381.5,19.5L378.5,15L380.5,15L380.5,9.5L382.5,9.5L382.5,15L384.5,15Z" fill="#ffffff" stroke="#9a9a9a" fill-opacity="1" stroke-opacity="1" stroke-width="1" style="fill: rgb(255, 255, 255); stroke: rgb(154, 154, 154); fill-opacity: 1; stroke-opacity: 1;"></path>
+            <rect x="372.5" y="6.5" width="18" height="17" rx="2" ry="2" fill="#c0c0c0" stroke="#c0c0c0" fill-opacity="0.000001" stroke-opacity="0.000001" stroke-width="1" style="fill: rgb(192, 192, 192); stroke: rgb(192, 192, 192); fill-opacity: 0.000001; stroke-opacity: 0.000001; cursor: pointer;"></rect>
+        </g>
+    </g>
+    <text x="6" y="296" stroke="none" fill="#000000" text-anchor="start" style="stroke: none; fill: rgb(0, 0, 0); text-anchor: start; fill-opacity: 0.5; font-size: 9px; font-family: verdana, sans; cursor: pointer;" fill-opacity="0.5" font-size="9px" font-family="Verdana,sans">
+        <tspan dy="-1.8984375" x="6">FusionCharts XT Trial</tspan>
+    </text>
+</svg>
